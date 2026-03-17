@@ -47,36 +47,44 @@ PTTKHT - Car Rental System/
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/990b306c-c7e9-428e-b509-2a7e2d4aca48" style="max-width:100%;"><br>
+      <img src="https://github.com/user-attachments/assets/1f5f2f90-6ea6-4422-9849-bf2ba01eacf1" style="max-width:100%;"><br>
       <sub><b>Trang Chủ</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/684b5804-5d1b-4070-8791-c5fba6c027bc" style="max-width:100%;"><br>
-      <sub><b>Tìm Xe Trống</b></sub>
+      <img src="https://github.com/user-attachments/assets/782ff961-2343-41b7-a90c-4d45f15f37ed" style="max-width:100%;"><br>
+      <sub><b>Giao Diện Tìm Xe</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/bdad9e13-c215-42ce-8cd9-791b3c20b213" style="max-width:100%;"><br>
+      <img src="https://github.com/user-attachments/assets/5e427fe1-4779-465c-bddc-e901c948b7a0" style="max-width:100%;"><br>
       <sub><b>Sửa Thông Tin Xe</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5ebdbadf-6264-4a79-8b6f-32682a29b512" style="max-width:100%;"><br>
+      <img src="https://github.com/user-attachments/assets/d058243a-600a-4749-90e1-0cc0ea3159a7" style="max-width:100%;"><br>
       <sub><b>Giao Diện Đặt Xe</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/3089d8c6-9795-493a-b39c-ed2319d41e87" style="max-width:100%;"><br>
+      <img src="https://github.com/user-attachments/assets/119c1af8-c0cf-4a24-8b22-ac3c05fd882f" style="max-width:100%;"><br>
       <sub><b>Xác Nhận Đặt Xe</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ea9f9dd7-db3c-413c-93a3-f018dc2bc1b5" style="max-width:100%;"><br>
+      <img src="https://github.com/user-attachments/assets/45e79a11-1adf-43cc-be2b-af651a1136e" style="max-width:100%;"><br>
       <sub><b>Thống Kê Xe</b></sub>
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center">
-      <img src="https://github.com/user-attachments/assets/afefdc51-5436-432f-984e-fa93fab63273" width="60%"><br>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e573c003-e379-4ee6-a535-12df7dfe3f1c" style="max-width:100%;"><br>
+      <sub><b>Chi Tiết Doanh Thu</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e0349b6a-8155-4ac5-9164-796d006b52f6" style="max-width:100%;"><br>
       <sub><b>Quản Lý Hợp Đồng</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f4793914-6f7d-4e0d-9239-5b84e8818852" style="max-width:100%;"><br>
+      <sub><b>Chi Tiết Hợp Đồng</b></sub>
     </td>
   </tr>
 </table>
