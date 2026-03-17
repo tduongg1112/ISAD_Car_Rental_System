@@ -1,6 +1,6 @@
-# Car Rental System - PTTKHT
+# Car Rental System - Phân tích thiết kế Hệ thống thông tin
 
-Một hệ thống quản lý cho thuê xe ô tô được xây dựng và phát triển trên nền tảng Java Web. Dự án hỗ trợ quản lý thông tin xe, lịch đặt xe, hợp đồng thuê xe, hoá đơn đặt cọc và báo cáo doanh thu chi tiết dành cho Quản lý (Manager) và Nhân viên Kinh doanh (Sales Staff).
+Một hệ thống quản lý cho thuê xe ô tô được xây dựng và phát triển trên nền tảng Java Web (Học phần Information System Analysis and Design). Dự án hỗ trợ quản lý thông tin xe, lịch đặt xe, hợp đồng thuê xe, hoá đơn đặt cọc và báo cáo doanh thu chi tiết dành cho Quản lý (Manager) và Nhân viên Kinh doanh (Sales Staff).
 
 ## 🚀 Tính Năng Chính
 - **Đăng nhập Hệ thống:** Phân quyền theo Role riêng biệt (`manager`, `salestaff`).
@@ -11,7 +11,7 @@ Một hệ thống quản lý cho thuê xe ô tô được xây dựng và phát
 - **Thống Kê Doanh Thu:** Xuất báo cáo doanh thu các xe theo dải ngày chỉ định (Tích hợp xử lý thuật toán tối ưu trên SQL Data Constraint để tránh lỗi nhân đôi doanh số hợp đồng).
 
 ## 🛠 Công Nghệ Sử Dụng
-- **Front-end:** HTML & Vanilla CSS, JavaScript (JSP Pages), Google Fonts (Inter).
+- **Front-end:** HTML & Vanilla CSS, JavaScript (JSP Pages), Fonts Inter
 - **Back-end:** Java Servlet / JSP chạy trên máy chủ Apache Tomcat (Java EE Engine).
 - **Database:** PostgreSQL (Mô hình kết nối qua cấu trúc JDBC thuần túy).
 - **Kiến trúc Thiết kế:** Mô hình MVC (Model - View - Controller), Tổ chức file theo cấu trúc 3 lớp tiêu chuẩn Web Layer -> DAO Layer -> Model Object (Entities).
@@ -43,15 +43,43 @@ PTTKHT - Car Rental System/
 ```
 
 ## 📸 Demo Giao Diện Sản Phẩm
-> *(Dán link hình ảnh demo giao diện chạy thật của nhóm bạn vào đây để có kết quả trực quan nhất)*
 
-![Demo 1 - Trang Đặt Xe & Tính Tiền](link_anh_o_day)
-
-
-
-![Demo 2 - Trang Quản Lý Đơn Hàng & Invoice](link_anh_o_day)
-
-![Demo 3 - Trang Báo Cáo Thống Kê Error Fix](link_anh_o_day)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/990b306c-c7e9-428e-b509-2a7e2d4aca48" style="max-width:100%;"><br>
+      <sub><b>Trang Chủ</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/684b5804-5d1b-4070-8791-c5fba6c027bc" style="max-width:100%;"><br>
+      <sub><b>Tìm Xe Trống</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/bdad9e13-c215-42ce-8cd9-791b3c20b213" style="max-width:100%;"><br>
+      <sub><b>Sửa Thông Tin Xe</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5ebdbadf-6264-4a79-8b6f-32682a29b512" style="max-width:100%;"><br>
+      <sub><b>Giao Diện Đặt Xe</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3089d8c6-9795-493a-b39c-ed2319d41e87" style="max-width:100%;"><br>
+      <sub><b>Xác Nhận Đặt Xe</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ea9f9dd7-db3c-413c-93a3-f018dc2bc1b5" style="max-width:100%;"><br>
+      <sub><b>Thống Kê Xe</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://github.com/user-attachments/assets/afefdc51-5436-432f-984e-fa93fab63273" width="60%"><br>
+      <sub><b>Quản Lý Hợp Đồng</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,7 +88,7 @@ PTTKHT - Car Rental System/
 ### Yêu Cầu Môi Trường:
 - **Ngôn ngữ:** JDK 8 (Hoặc mới hơn như JDK 17/21).
 - **IDE / Trình soạn thảo:** NetBeans hoặc VS Code (Có cài Extension Java).
-- **Web Server:** Khuyên dùng bản tải về của `Apache Tomcat 9.0.x` hoặc mã cao hơn (Được Unzip tại ổ `C:` window hoặc thư mục `Home` trên macOS).
+- **Web Server:** Khuyên dùng bản tải về của `Apache Tomcat 9.0.x` hoặc mã cao hơn.
 - **Cơ sở dữ liệu:** PostgreSQL (Kết hợp sử dụng phần mềm quản trị pgAdmin 4 hoặc DBeaver).
 
 ### Bước 1: Khởi Tạo Database (PostgresSQL)
