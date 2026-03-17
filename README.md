@@ -69,7 +69,7 @@ PTTKHT - Car Rental System/
       <sub><b>Xác Nhận Đặt Xe</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/45e79a11-1adf-43cc-be2b-af651a1136e" style="max-width:100%;"><br>
+      <img src="https://github.com/user-attachments/assets/45e79a11-1adf-43cc-be2b-af651a1136ee" style="max-width:100%;"><br>
       <sub><b>Thống Kê Xe</b></sub>
     </td>
   </tr>
